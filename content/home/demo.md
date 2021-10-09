@@ -6,7 +6,7 @@ widget: blank
 widget_id: recent-posts
 headless: true
 weight: 15
-title: Academic Template
+title: Chen Qiqi
 subtitle: ""
 active: true
 design:
@@ -22,4 +22,4 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to Qiqi's Home Page!
+## 👋 Welcome to Home Page!
