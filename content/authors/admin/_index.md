@@ -3,39 +3,36 @@ title: Chen Qiqi
 role: PhD Candidate, Industrial Engineering
 bio: My research interests include spare parts logistics, Cyber-Physical Systems
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - spare parts logistics
+#  - Computational Linguistics
+#  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Qiqi-Chen-2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChenQQ1990
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/qiqichen/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Hong Kong
+    url: https://www.hku.hk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Industrial Engineering
+      institution: The University of Hong Kong
+      year: 2018-Now
+    - course: MEng in Computer Science and Technology
+      institution: South China University of Technology
+      year: 2018
+    - course: BSc in Network Engineering
+      institution: South China University of Technology
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
