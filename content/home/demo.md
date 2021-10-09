@@ -6,7 +6,7 @@ widget: blank
 widget_id: recent-posts
 headless: true
 weight: 15
-title: Chen Qiqi
+title: 👋 Welcome to Chen Qiqi’s Home Page!
 subtitle: ""
 active: true
 design:
@@ -22,4 +22,3 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to Home Page!
