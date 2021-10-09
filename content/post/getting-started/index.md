@@ -1,16 +1,14 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
-date: 2020-12-13T00:00:00Z
-summary: test
+title: closed
+subtitle: closed
+date: 2021-10-09T11:28:35.434Z
+summary: ""
 draft: false
 featured: false
 authors:
   - QQ
   - chenqiqi
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
 categories: []
@@ -21,4 +19,4 @@ image:
   placement: 2
   preview_only: false
 ---
-## test
+## to be updated
