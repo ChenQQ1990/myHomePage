@@ -1,12 +1,10 @@
 ---
 title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
+date: 2021-10-09T11:16:30.503Z
 draft: true
 share: false
 commentable: false
 editable: false
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
