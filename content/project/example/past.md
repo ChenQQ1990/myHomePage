@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: iPark Project
 tags:
-  - development
+  - past
 links: []
 image:
   caption: ""
