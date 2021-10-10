@@ -25,7 +25,7 @@ experience:
   - title: Administrative Staff
     company: South China University of Hong Kong
     company_url: ''
-    company_logo: org-gc
+    company_logo: scut
     location: Guangzhou, China
     date_start: '2013-07-01'
     date_end: '2015-08-31'
@@ -38,7 +38,7 @@ experience:
   - title: Chairperson
     company: HKU IEPGA
     company_url: ''
-    company_logo: org-x
+    company_logo: IEPGA
     location: HKU, Hong Kong, China
     date_start: '2018-10-01'
     date_end: '2019-09-30'
