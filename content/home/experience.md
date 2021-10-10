@@ -10,11 +10,11 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: recent experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Oct. 2021
+date_format: Oct 2021
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -31,7 +31,6 @@ experience:
     date_end: '2015-08-31'
     description: |2-
         Responsibilities include:
-        
         * Student affairs
         * School-enterprise cooperation
         * Orgnizing events
