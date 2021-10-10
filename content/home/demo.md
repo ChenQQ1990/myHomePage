@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: recent-posts
 headless: true
-weight: 15
+weight: 5
 title: 👋 Welcome to Chen Qiqi’s Home Page!
 subtitle: ""
 active: true
