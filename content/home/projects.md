@@ -28,7 +28,7 @@ content:
   - name: Current
     tag: '*'
   - name: Past
-    tag: 'Past'
+    tag: 'past'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
