@@ -6,7 +6,7 @@ url_video: ""
 date: 2021-10-09T11:42:40.407Z
 external_link: ""
 url_slides: ""
-title: iPark Project
+title: iFit-out ITF Project
 tags:
   - current
 links: []
