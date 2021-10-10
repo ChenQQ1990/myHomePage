@@ -43,7 +43,7 @@ experience:
     location: HKU, Hong Kong, China
     date_start: '2018-10-01'
     date_end: '2019-09-31'
-    description: lead the organization.
+    description: lead the organization
 
 design:
   columns: '2'
